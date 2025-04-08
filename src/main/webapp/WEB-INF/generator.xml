@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Generator configuration</comment>
+<entry key="outputDir">src/main/java/models</entry>
+<entry key="removePrefixField"></entry>
+<entry key="databaseConfig">src/main/webapp/WEB-INF/database.xml</entry>
+<entry key="outputPackage">models</entry>
+<entry key="columnToField"></entry>
+<entry key="fieldConvention">camelCase</entry>
+<entry key="prefixField"></entry>
+<entry key="classConvention">PascalCase</entry>
+<entry key="prefixClass"></entry>
+<entry key="relations">webdyn1_prevision:id:hasmany:webdyn1_depense:prevision_id:depenses:prevision</entry>
+<entry key="tableToClass"></entry>
+<entry key="removePrefixClass">webdyn1_</entry>
+</properties>
